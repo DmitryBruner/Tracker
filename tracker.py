@@ -10,7 +10,7 @@ response = get("https://api.tracker.yandex.net/v2/myself", headers={"Authorizati
                                                                     "X-Cloud-Org-ID": my_org_id})
 print(response)
 
-
+ТЕСТ
 
 # client.issues.create(
 # queue='MYQUEUE', summary='API Test Issue', type={'name': 'Bug'}, description='test description'
